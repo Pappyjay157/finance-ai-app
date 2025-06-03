@@ -1,55 +1,48 @@
-<<<<<<< HEAD
-# finance-ai-app
-Native mobile app for AI-powered personal finance insights.
-=======
-# Welcome to your Expo app 👋
+# Finance AI App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the **Finance AI App** project!
 
-## Get started
+This application leverages artificial intelligence to help users manage and analyze their financial data more efficiently. The app provides insights, predictions, and tools to support better financial decision-making.
 
-1. Install dependencies
+## Features
 
+- Automated financial data analysis
+- Personalized financial insights and recommendations
+- Predictive analytics for budgeting and investments
+- User-friendly dashboard and reporting tools
+
+## Getting Started
+
+1. **Clone the repository:**
    ```bash
+   git clone https://github.com/Pappyjay157/finance-ai-app.git
+   ```
+2. **Install dependencies:**
+   ```bash
+   cd finance-ai-app
    npm install
    ```
-
-2. Start the app
-
+3. **Run the application:**
    ```bash
-   npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## Technologies Used
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Node.js
+- React
+- Python (for AI/ML models)
+- Express.js
+- MongoDB
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Contributing
 
-## Get a fresh project
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-When you're ready, run:
+## License
 
-```bash
-npm run reset-project
-```
+This project is licensed under the MIT License.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> d20d28c (Initial commit)
+*For more information, see the documentation or contact the project maintainers.*
